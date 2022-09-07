@@ -137,7 +137,7 @@ void loop() {
     }else if(LDevant<300){
       thr=500;
     }else{
-      thr=1000;
+      thr=500;
     }
     if(t>t0+10000){
       t0=t;
